@@ -8,7 +8,7 @@ Self-taught, based in Seattle. I build AWS infrastructure, attack it, and docume
 ## Current Work
 
 **[aws-cloud-security](https://github.com/LuMengistu/aws-cloud-security)** \
-A five-Set roadmap I designed and am working through. Set 1 is complete: host hardening, edge security, private networking, and all three built as one system. Containers, infrastructure as code, detection engineering, and CI/CD follow.
+A roadmap I designed and am working through. Host hardening, edge security, and private networking are done, along with all three built as one system. Containers, infrastructure as code, detection engineering, and CI/CD follow.
 
 **How the builds work** \
 Every control is verified by attacking it. A phase closes on evidence, not on being finished. Every README carries a gaps section naming what the build does not defend against, and later projects close them.
